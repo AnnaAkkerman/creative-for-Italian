@@ -159,7 +159,7 @@ body {
 }
 
 .coin {
-  background-image: url("../images/coin.png");
+  background-image: url("/src/images/coin.png");
   background-size: cover;
   width: 100px;
   height: 100px;
@@ -176,7 +176,7 @@ body {
 }
 
 .arrow {
-  background-image: url("../images/arrow.png");
+  background-image: url("/src/images/arrow.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -195,7 +195,7 @@ body {
 }
 
 .gift {
-  background-image: url("../images/gift.png");
+  background-image: url("/src/images/gift.png");
   background-size: contain;
   background-repeat: no-repeat;
   width: 100px;
