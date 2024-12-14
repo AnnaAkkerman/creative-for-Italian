@@ -1,26 +1,26 @@
 const images = [
   {
-    src: "/src/images/italy3.jpg",
+    src: "../creative-for-Italian/src/images/italy3.jpg",
     info: "Pulizie di primavera in stile italiano!",
     className: "info-style-1",
   },
   {
-    src: "/src/images/italy4-2х.jpg",
+    src: "../creative-for-Italian/src/images/italy4-2х.jpg",
     info: "Vuoi rendere la pulizia facile come una brezza primaverile?",
     className: "info-style-2",
   },
   {
-    src: "/src/images/italy5-2х.jpg",
+    src: "../creative-for-Italian/src/images/italy5-2х.jpg",
     info: "Partecipa al nostro giveaway e vinci un Dyson V15 a soli €2!",
     className: "info-style-3",
   },
   {
-    src: "/src/images/italy6-1.jpg",
+    src: "../creative-for-Italian/src/images/italy6-1.jpg",
     info: "Partecipare!",
     className: "info-style-4",
   },
   {
-    src: "/src/images/2-2x.webp",
+    src: "../creative-for-Italian/src/images/2-2x.webp",
     className: "info-style-5",
   },
 ];
